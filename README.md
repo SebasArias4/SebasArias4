@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Hola, soy Sebastián Arias Acosta! 👋
 
-<!--
-**SebasArias4/SebasArias4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudiante de Análisis y Desarrollo de Software**  
+🚀 Apasionado por la tecnología, la lógica de programación y la creación de soluciones digitales.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+
+- 📚 Actualmente estoy estudiando **Análisis y Desarrollo de Software**.
+- 💡 Estoy en constante aprendizaje, explorando las bases de la programación y el desarrollo web.
+- 🎯 **Mi meta:** Desarrollar habilidades sólidas para construir aplicaciones funcionales y eficientes.
+- 🤝 Abierto a colaborar en proyectos iniciales, aprender de otros desarrolladores y recibir retroalimentación.
+
+---
+
+
+### 📫 ¿Cómo contactarme?
+
+- **Nombre de usuario:** SebasArias4
+- **Correo:** sebasandres.ariasacosta@gmail.com
+- **Telefono:** 3246533695
+
+---
+
+💡 *"El secreto para salir adelante es comenzar."*
